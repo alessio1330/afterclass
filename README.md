@@ -12,14 +12,16 @@
 
 ## Objetivos del proyecto
 
-- 1°
-- 2°
+- 1° Crear 3 clases en models
+- 2° Formulario para insertar datos a todas las clases
+- 3° Formulario para buscar algo en la base de datos
+
 
 ## Aspectos técnicos
 
-He usado Django. He creado tres modelos en la aplicación X.
+He usado Django. He creado tres modelos en la aplicación curso.
 
 ## Puntos a mejorar
 
-- 1°
-- 2°
+- 1° Diseño de la página
+- 2° Orden en el formato de programación
